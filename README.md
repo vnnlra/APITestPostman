@@ -41,7 +41,7 @@ Serve a evitare problemi e perdite di tempo all’avvio del laboratorio.
 
 ---
 
-### 📄 `Seconda_ora_laboratorio_Postman.md`
+### 📄 `Esercizi_laboratorio_Postman.md`
 Scheda di laboratorio per la parte pratica, che include:
 - esempi concreti di richieste HTTP
 - utilizzo di API pubbliche di test
