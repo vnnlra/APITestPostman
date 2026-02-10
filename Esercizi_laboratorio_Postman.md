@@ -1,4 +1,4 @@
-# Seconda ora di laboratorio – Testing di API con Postman
+# Laboratorio – Testing di API con Postman
 
 In questa attività useremo **Postman** per inviare richieste HTTP a **API pubbliche** e analizzare le risposte del server.
 
