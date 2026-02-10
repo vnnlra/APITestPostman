@@ -68,7 +68,7 @@ Si tratta di un servizio gratuito che fornisce dati fittizi ed è adatto esclusi
 ## Prerequisiti
 
 Per svolgere le attività è necessario:
-- Postman installato sul computer
+- Postman installato sul computer o versione online
 - una connessione a Internet
 - conoscenze di base di:
   - HTTP
